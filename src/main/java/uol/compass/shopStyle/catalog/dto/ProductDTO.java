@@ -31,4 +31,7 @@ public class ProductDTO {
         this.active = product.getActive();
         this.categories = getCategories();
     }
+
+    public ProductDTO(ProductDTO productDTO) {
+    }
 }
