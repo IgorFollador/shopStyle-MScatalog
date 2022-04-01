@@ -5,4 +5,6 @@ import uol.compass.shopStyle.catalog.document.Product;
 
 public interface ProductRepository extends MongoRepository<Product, String> {
 
+
+
 }
