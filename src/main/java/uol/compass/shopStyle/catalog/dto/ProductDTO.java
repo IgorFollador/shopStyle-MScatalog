@@ -32,6 +32,4 @@ public class ProductDTO {
         this.categories = getCategories();
     }
 
-    public ProductDTO(ProductDTO productDTO) {
-    }
 }
