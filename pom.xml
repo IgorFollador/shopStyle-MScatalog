@@ -11,7 +11,7 @@
 	<groupId>uol.compass.shopStyle</groupId>
 	<artifactId>catalog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>catalog</name>
+	<name>ms-catalog</name>
 	<description>Catalog Microservice for the application Shop Style</description>
 	<properties>
 		<java.version>11</java.version>
